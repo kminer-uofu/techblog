@@ -1,6 +1,6 @@
 # techblog
 
-This is a blog where you can add titles and comments after logging into the app.
+This is a technology blog where you can add titles and comments after logging into the app.
 
 ## Example
 
